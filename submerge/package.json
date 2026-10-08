@@ -1,0 +1,1 @@
+{"name":"morphiq-motion-library","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","check":"node scripts/check-recreation.mjs && node scripts/check-morphiq-behavior.mjs","build":"node scripts/build-morphiq.mjs","recreate":"node scripts/recreate.mjs"}}
